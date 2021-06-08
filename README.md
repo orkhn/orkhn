@@ -14,14 +14,13 @@
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment
 - 🌱 &nbsp; I’m preparing [Front End interviews](https://h5bp.org/Front-end-Developer-Interview-Questions/questions/general-questions/) now
 - 📖 &nbsp; I'm going to learn TypeScript and Nodejs next
-- 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/orkhn)
+- 👨 &nbsp; All of my projects are available on [Github](https://github.com/orkhn?tab=repositories)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/orkhan-ahadov-34242b124/)
-- 📝 &nbsp; Checkout my [resume])
 - 📫 &nbsp; How to reach me: orxan.ahadov@gmail.com
 
 ### ⚡ Fun facts:
 
-- 🎮 &nbsp; In my spare time, I read books. Friend me on [GOODREADS](https://www.goodreads.com/user/show/64366721-orkhan-ahadov).
+- 📚 &nbsp; In my spare time, I read books. Friend me on [GOODREADS](https://www.goodreads.com/user/show/64366721-orkhan-ahadov).
 
 ### 🔨 Languages and Tools:
 
