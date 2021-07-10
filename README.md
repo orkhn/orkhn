@@ -17,10 +17,6 @@
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/orkhan-ahadov-34242b124/)
 - 📫 &nbsp; How to reach me: orxan.ahadov@gmail.com
 
-### ⚡ Fun facts:
-
-- 📚 &nbsp; In my spare time, I read books. Friend me on [GOODREADS](https://www.goodreads.com/user/show/64366721-orkhan-ahadov).
-
 ### 🔨 Languages and Tools:
 
   <p>
